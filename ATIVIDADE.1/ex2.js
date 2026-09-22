@@ -1,0 +1,5 @@
+// UMA MAQUINA DEVE SER CLASSIFICADA DE ACORDO COM A TEMPERATURA: ATE 60 C = NORMAL;  DE 61 C ATE 80 C = ATENCAO; ACIMA DE 80 C = CRITICA
+
+
+const entrada = require('readline-sync');
+const  
